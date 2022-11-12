@@ -75,21 +75,21 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2020-12-27,Pfizer/BioNTech,MOL,70-79,1,3,2,0,2,0,0,ITF,ITF2,14,Molise
 2020-12-27,Pfizer/BioNTech,MOL,80-89,0,6,5,0,1,0,0,ITF,ITF2,14,Molise
 2020-12-27,Pfizer/BioNTech,MOL,90+,2,4,4,0,2,0,0,ITF,ITF2,14,Molise
-2020-12-27,Pfizer/BioNTech,PAB,20-29,1,8,9,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAB,30-39,10,10,20,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAB,40-49,18,28,46,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAB,50-59,26,28,54,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAB,60-69,9,7,16,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAB,70-79,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAB,80-89,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-27,Pfizer/BioNTech,PAT,20-29,2,3,5,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,30-39,2,7,9,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,40-49,8,17,25,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,50-59,10,19,29,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,60-69,16,6,22,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,70-79,3,1,4,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,80-89,1,7,8,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-27,Pfizer/BioNTech,PAT,90+,1,5,6,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2020-12-27,Pfizer/BioNTech,PAB,20-29,1,8,9,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAB,30-39,10,10,20,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAB,40-49,18,28,46,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAB,50-59,26,28,54,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAB,60-69,9,7,16,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAB,70-79,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAB,80-89,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-27,Pfizer/BioNTech,PAT,20-29,2,3,5,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,30-39,2,7,9,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,40-49,8,17,25,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,50-59,10,19,29,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,60-69,16,6,22,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,70-79,3,1,4,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,80-89,1,7,8,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-27,Pfizer/BioNTech,PAT,90+,1,5,6,0,0,0,0,ITH,ITH2,4,Trento
 2020-12-27,Pfizer/BioNTech,PIE,20-29,25,63,88,0,0,0,0,ITC,ITC1,1,Piemonte
 2020-12-27,Pfizer/BioNTech,PIE,30-39,61,84,145,0,0,0,0,ITC,ITC1,1,Piemonte
 2020-12-27,Pfizer/BioNTech,PIE,40-49,67,135,202,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -136,11 +136,11 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2020-12-27,Pfizer/BioNTech,UMB,70-79,2,3,5,0,0,0,0,ITI,ITI2,10,Umbria
 2020-12-27,Pfizer/BioNTech,UMB,80-89,1,5,6,0,0,0,0,ITI,ITI2,10,Umbria
 2020-12-27,Pfizer/BioNTech,UMB,90+,1,0,1,0,0,0,0,ITI,ITI2,10,Umbria
-2020-12-27,Pfizer/BioNTech,VDA,20-29,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-27,Pfizer/BioNTech,VDA,30-39,1,0,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-27,Pfizer/BioNTech,VDA,40-49,1,3,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-27,Pfizer/BioNTech,VDA,50-59,4,5,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-27,Pfizer/BioNTech,VDA,60-69,3,2,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2020-12-27,Pfizer/BioNTech,VDA,20-29,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-27,Pfizer/BioNTech,VDA,30-39,1,0,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-27,Pfizer/BioNTech,VDA,40-49,1,3,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-27,Pfizer/BioNTech,VDA,50-59,4,5,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-27,Pfizer/BioNTech,VDA,60-69,3,2,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2020-12-27,Pfizer/BioNTech,VEN,20-29,22,54,71,0,5,0,0,ITH,ITH3,5,Veneto
 2020-12-27,Pfizer/BioNTech,VEN,30-39,65,57,121,0,1,0,0,ITH,ITH3,5,Veneto
 2020-12-27,Pfizer/BioNTech,VEN,40-49,52,105,157,0,0,0,0,ITH,ITH3,5,Veneto
@@ -260,18 +260,18 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2020-12-30,Pfizer/BioNTech,MAR,40-49,1,2,3,0,0,0,0,ITI,ITI3,11,Marche
 2020-12-30,Pfizer/BioNTech,MAR,50-59,2,6,8,0,0,0,0,ITI,ITI3,11,Marche
 2020-12-30,Pfizer/BioNTech,MAR,60-69,1,0,1,0,0,0,0,ITI,ITI3,11,Marche
-2020-12-30,Pfizer/BioNTech,PAB,20-29,22,33,54,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-30,Pfizer/BioNTech,PAB,30-39,36,31,66,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-30,Pfizer/BioNTech,PAB,40-49,55,88,143,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-30,Pfizer/BioNTech,PAB,50-59,54,50,104,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-30,Pfizer/BioNTech,PAB,60-69,29,12,41,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-30,Pfizer/BioNTech,PAB,70-79,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-30,Pfizer/BioNTech,PAT,40-49,0,1,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-30,Pfizer/BioNTech,PAT,50-59,0,1,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-30,Pfizer/BioNTech,PAT,60-69,0,2,2,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-30,Pfizer/BioNTech,PAT,70-79,1,0,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-30,Pfizer/BioNTech,PAT,80-89,1,0,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-30,Pfizer/BioNTech,PAT,90+,1,0,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2020-12-30,Pfizer/BioNTech,PAB,20-29,22,33,54,0,1,0,0,ITH,ITH1,4,Bolzano
+2020-12-30,Pfizer/BioNTech,PAB,30-39,36,31,66,0,1,0,0,ITH,ITH1,4,Bolzano
+2020-12-30,Pfizer/BioNTech,PAB,40-49,55,88,143,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-30,Pfizer/BioNTech,PAB,50-59,54,50,104,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-30,Pfizer/BioNTech,PAB,60-69,29,12,41,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-30,Pfizer/BioNTech,PAB,70-79,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-30,Pfizer/BioNTech,PAT,40-49,0,1,1,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-30,Pfizer/BioNTech,PAT,50-59,0,1,1,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-30,Pfizer/BioNTech,PAT,60-69,0,2,2,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-30,Pfizer/BioNTech,PAT,70-79,1,0,1,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-30,Pfizer/BioNTech,PAT,80-89,1,0,1,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-30,Pfizer/BioNTech,PAT,90+,1,0,1,0,0,0,0,ITH,ITH2,4,Trento
 2020-12-30,Pfizer/BioNTech,PIE,20-29,48,84,132,0,0,0,0,ITC,ITC1,1,Piemonte
 2020-12-30,Pfizer/BioNTech,PIE,30-39,65,44,109,0,0,0,0,ITC,ITC1,1,Piemonte
 2020-12-30,Pfizer/BioNTech,PIE,40-49,79,108,187,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -351,23 +351,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2020-12-31,Pfizer/BioNTech,MAR,40-49,44,66,110,0,0,0,0,ITI,ITI3,11,Marche
 2020-12-31,Pfizer/BioNTech,MAR,50-59,40,58,98,0,0,0,0,ITI,ITI3,11,Marche
 2020-12-31,Pfizer/BioNTech,MAR,60-69,59,34,93,0,0,0,0,ITI,ITI3,11,Marche
-2020-12-31,Pfizer/BioNTech,PAB,12-19,9,5,14,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,20-29,66,55,121,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,30-39,94,68,162,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,40-49,123,103,225,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,50-59,144,140,283,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,60-69,81,29,110,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,70-79,13,2,15,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAB,80-89,1,1,2,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2020-12-31,Pfizer/BioNTech,PAT,12-19,0,1,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,20-29,32,92,124,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,30-39,67,123,190,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,40-49,53,216,269,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,50-59,92,256,348,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,60-69,81,86,167,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,70-79,61,77,138,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,80-89,76,204,279,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2020-12-31,Pfizer/BioNTech,PAT,90+,21,189,210,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2020-12-31,Pfizer/BioNTech,PAB,12-19,9,5,14,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,20-29,66,55,121,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,30-39,94,68,162,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,40-49,123,103,225,0,1,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,50-59,144,140,283,0,1,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,60-69,81,29,110,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,70-79,13,2,15,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAB,80-89,1,1,2,0,0,0,0,ITH,ITH1,4,Bolzano
+2020-12-31,Pfizer/BioNTech,PAT,12-19,0,1,1,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,20-29,32,92,124,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,30-39,67,123,190,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,40-49,53,216,269,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,50-59,92,256,348,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,60-69,81,86,167,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,70-79,61,77,138,0,0,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,80-89,76,204,279,0,1,0,0,ITH,ITH2,4,Trento
+2020-12-31,Pfizer/BioNTech,PAT,90+,21,189,210,0,0,0,0,ITH,ITH2,4,Trento
 2020-12-31,Pfizer/BioNTech,PIE,12-19,0,3,3,0,0,0,0,ITC,ITC1,1,Piemonte
 2020-12-31,Pfizer/BioNTech,PIE,20-29,119,251,369,0,1,0,0,ITC,ITC1,1,Piemonte
 2020-12-31,Pfizer/BioNTech,PIE,30-39,261,397,656,0,2,0,0,ITC,ITC1,1,Piemonte
@@ -411,11 +411,11 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2020-12-31,Pfizer/BioNTech,UMB,40-49,30,70,100,0,0,0,0,ITI,ITI2,10,Umbria
 2020-12-31,Pfizer/BioNTech,UMB,50-59,35,73,108,0,0,0,0,ITI,ITI2,10,Umbria
 2020-12-31,Pfizer/BioNTech,UMB,60-69,36,13,49,0,0,0,0,ITI,ITI2,10,Umbria
-2020-12-31,Pfizer/BioNTech,VDA,20-29,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-31,Pfizer/BioNTech,VDA,30-39,0,2,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-31,Pfizer/BioNTech,VDA,40-49,1,2,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-31,Pfizer/BioNTech,VDA,50-59,3,7,10,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2020-12-31,Pfizer/BioNTech,VDA,60-69,0,2,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2020-12-31,Pfizer/BioNTech,VDA,20-29,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-31,Pfizer/BioNTech,VDA,30-39,0,2,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-31,Pfizer/BioNTech,VDA,40-49,1,2,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-31,Pfizer/BioNTech,VDA,50-59,3,7,10,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2020-12-31,Pfizer/BioNTech,VDA,60-69,0,2,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2020-12-31,Pfizer/BioNTech,VEN,12-19,1,0,1,0,0,0,0,ITH,ITH3,5,Veneto
 2020-12-31,Pfizer/BioNTech,VEN,20-29,93,255,333,0,15,0,0,ITH,ITH3,5,Veneto
 2020-12-31,Pfizer/BioNTech,VEN,30-39,186,314,491,0,9,0,0,ITH,ITH3,5,Veneto
@@ -455,16 +455,16 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-01,Pfizer/BioNTech,LOM,50-59,3,5,8,0,0,0,0,ITC,ITC4,3,Lombardia
 2021-01-01,Pfizer/BioNTech,LOM,60-69,1,2,3,0,0,0,0,ITC,ITC4,3,Lombardia
 2021-01-01,Pfizer/BioNTech,LOM,70-79,1,0,1,0,0,0,0,ITC,ITC4,3,Lombardia
-2021-01-01,Pfizer/BioNTech,PAB,30-39,2,1,3,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-01,Pfizer/BioNTech,PAB,50-59,3,0,3,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-01,Pfizer/BioNTech,PAT,20-29,5,7,12,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,30-39,7,10,17,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,40-49,7,42,49,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,50-59,6,35,41,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,60-69,9,16,25,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,70-79,4,7,11,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,80-89,10,25,35,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-01,Pfizer/BioNTech,PAT,90+,3,30,33,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-01,Pfizer/BioNTech,PAB,30-39,2,1,3,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-01,Pfizer/BioNTech,PAB,50-59,3,0,3,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-01,Pfizer/BioNTech,PAT,20-29,5,7,12,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,30-39,7,10,17,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,40-49,7,42,49,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,50-59,6,35,41,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,60-69,9,16,25,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,70-79,4,7,11,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,80-89,10,25,35,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-01,Pfizer/BioNTech,PAT,90+,3,30,33,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-01,Pfizer/BioNTech,PIE,20-29,35,69,103,0,1,0,0,ITC,ITC1,1,Piemonte
 2021-01-01,Pfizer/BioNTech,PIE,30-39,81,111,192,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-01,Pfizer/BioNTech,PIE,40-49,81,140,221,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -582,20 +582,20 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-02,Pfizer/BioNTech,MAR,40-49,29,88,117,0,0,0,0,ITI,ITI3,11,Marche
 2021-01-02,Pfizer/BioNTech,MAR,50-59,42,122,164,0,0,0,0,ITI,ITI3,11,Marche
 2021-01-02,Pfizer/BioNTech,MAR,60-69,29,35,64,0,0,0,0,ITI,ITI3,11,Marche
-2021-01-02,Pfizer/BioNTech,PAB,20-29,2,4,6,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-02,Pfizer/BioNTech,PAB,30-39,5,4,9,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-02,Pfizer/BioNTech,PAB,40-49,15,18,33,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-02,Pfizer/BioNTech,PAB,50-59,12,10,22,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-02,Pfizer/BioNTech,PAB,60-69,13,7,20,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-02,Pfizer/BioNTech,PAB,70-79,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-02,Pfizer/BioNTech,PAT,20-29,16,30,46,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,30-39,28,51,79,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,40-49,21,82,103,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,50-59,24,89,113,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,60-69,12,32,44,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,70-79,20,12,32,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,80-89,18,30,48,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-02,Pfizer/BioNTech,PAT,90+,13,51,63,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-02,Pfizer/BioNTech,PAB,20-29,2,4,6,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-02,Pfizer/BioNTech,PAB,30-39,5,4,9,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-02,Pfizer/BioNTech,PAB,40-49,15,18,33,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-02,Pfizer/BioNTech,PAB,50-59,12,10,22,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-02,Pfizer/BioNTech,PAB,60-69,13,7,20,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-02,Pfizer/BioNTech,PAB,70-79,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-02,Pfizer/BioNTech,PAT,20-29,16,30,46,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,30-39,28,51,79,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,40-49,21,82,103,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,50-59,24,89,113,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,60-69,12,32,44,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,70-79,20,12,32,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,80-89,18,30,48,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-02,Pfizer/BioNTech,PAT,90+,13,51,63,0,1,0,0,ITH,ITH2,4,Trento
 2021-01-02,Pfizer/BioNTech,PIE,12-19,0,1,1,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-02,Pfizer/BioNTech,PIE,20-29,110,291,401,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-02,Pfizer/BioNTech,PIE,30-39,240,399,639,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -640,9 +640,9 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-02,Pfizer/BioNTech,UMB,40-49,25,54,79,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-02,Pfizer/BioNTech,UMB,50-59,26,50,76,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-02,Pfizer/BioNTech,UMB,60-69,33,18,51,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-02,Pfizer/BioNTech,VDA,70-79,2,0,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-02,Pfizer/BioNTech,VDA,80-89,3,0,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-02,Pfizer/BioNTech,VDA,90+,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-02,Pfizer/BioNTech,VDA,70-79,2,0,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-02,Pfizer/BioNTech,VDA,80-89,3,0,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-02,Pfizer/BioNTech,VDA,90+,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-02,Pfizer/BioNTech,VEN,20-29,152,427,557,0,22,0,0,ITH,ITH3,5,Veneto
 2021-01-02,Pfizer/BioNTech,VEN,30-39,347,645,970,0,22,0,0,ITH,ITH3,5,Veneto
 2021-01-02,Pfizer/BioNTech,VEN,40-49,340,911,1237,0,14,0,0,ITH,ITH3,5,Veneto
@@ -660,7 +660,7 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-03,Moderna,LAZ,50-59,0,3,1,0,2,0,0,ITI,ITI4,12,Lazio
 2021-01-03,Moderna,LAZ,60-69,1,1,1,0,1,0,0,ITI,ITI4,12,Lazio
 2021-01-03,Moderna,LIG,60-69,1,0,1,0,0,0,0,ITC,ITC3,7,Liguria
-2021-01-03,Moderna,PAB,60-69,0,1,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-01-03,Moderna,PAB,60-69,0,1,1,0,0,0,0,ITH,ITH1,4,Bolzano
 2021-01-03,Moderna,SIC,40-49,1,0,1,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-03,Moderna,SIC,70-79,1,0,1,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-03,Pfizer/BioNTech,ABR,20-29,16,28,43,0,1,0,0,ITF,ITF1,13,Abruzzo
@@ -729,21 +729,21 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-03,Pfizer/BioNTech,MAR,60-69,70,57,127,0,0,0,0,ITI,ITI3,11,Marche
 2021-01-03,Pfizer/BioNTech,MAR,70-79,0,1,1,0,0,0,0,ITI,ITI3,11,Marche
 2021-01-03,Pfizer/BioNTech,MOL,30-39,1,0,0,0,1,0,0,ITF,ITF2,14,Molise
-2021-01-03,Pfizer/BioNTech,PAB,20-29,4,8,12,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAB,30-39,0,2,2,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAB,40-49,5,6,11,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAB,50-59,3,6,9,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAB,60-69,2,2,4,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAB,70-79,2,1,3,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAB,80-89,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-03,Pfizer/BioNTech,PAT,20-29,5,40,45,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,30-39,29,36,65,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,40-49,18,69,87,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,50-59,34,91,125,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,60-69,58,60,118,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,70-79,14,4,18,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,80-89,6,15,21,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-03,Pfizer/BioNTech,PAT,90+,4,25,29,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-03,Pfizer/BioNTech,PAB,20-29,4,8,12,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAB,30-39,0,2,2,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAB,40-49,5,6,11,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAB,50-59,3,6,9,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAB,60-69,2,2,4,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAB,70-79,2,1,3,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAB,80-89,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-03,Pfizer/BioNTech,PAT,20-29,5,40,45,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,30-39,29,36,65,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,40-49,18,69,87,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,50-59,34,91,125,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,60-69,58,60,118,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,70-79,14,4,18,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,80-89,6,15,21,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-03,Pfizer/BioNTech,PAT,90+,4,25,29,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-03,Pfizer/BioNTech,PIE,20-29,65,236,301,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-03,Pfizer/BioNTech,PIE,30-39,198,302,500,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-03,Pfizer/BioNTech,PIE,40-49,193,469,661,0,1,0,0,ITC,ITC1,1,Piemonte
@@ -811,7 +811,7 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-04,Moderna,LAZ,40-49,2,0,2,0,0,0,0,ITI,ITI4,12,Lazio
 2021-01-04,Moderna,LAZ,50-59,0,1,0,0,1,0,0,ITI,ITI4,12,Lazio
 2021-01-04,Moderna,LAZ,70-79,1,0,1,0,0,0,0,ITI,ITI4,12,Lazio
-2021-01-04,Moderna,PAB,20-29,3,0,3,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
+2021-01-04,Moderna,PAB,20-29,3,0,3,0,0,0,0,ITH,ITH1,4,Bolzano
 2021-01-04,Moderna,SIC,30-39,0,1,1,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-04,Moderna,SIC,50-59,0,1,1,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-04,Moderna,SIC,80-89,0,1,1,0,0,0,0,ITG,ITG1,19,Sicilia
@@ -896,21 +896,21 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-04,Pfizer/BioNTech,MOL,50-59,41,59,100,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-04,Pfizer/BioNTech,MOL,60-69,40,22,61,0,1,0,0,ITF,ITF2,14,Molise
 2021-01-04,Pfizer/BioNTech,MOL,70-79,1,0,1,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-04,Pfizer/BioNTech,PAB,20-29,13,24,37,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAB,30-39,45,56,100,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAB,40-49,47,102,149,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAB,50-59,56,95,151,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAB,60-69,31,30,61,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAB,70-79,10,3,13,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAB,80-89,1,1,2,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-04,Pfizer/BioNTech,PAT,20-29,19,52,71,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,30-39,31,57,88,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,40-49,34,129,162,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,50-59,45,148,193,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,60-69,36,52,88,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,70-79,31,28,59,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,80-89,39,92,130,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-04,Pfizer/BioNTech,PAT,90+,17,110,126,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-04,Pfizer/BioNTech,PAB,20-29,13,24,37,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAB,30-39,45,56,100,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAB,40-49,47,102,149,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAB,50-59,56,95,151,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAB,60-69,31,30,61,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAB,70-79,10,3,13,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAB,80-89,1,1,2,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-04,Pfizer/BioNTech,PAT,20-29,19,52,71,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,30-39,31,57,88,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,40-49,34,129,162,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,50-59,45,148,193,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,60-69,36,52,88,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,70-79,31,28,59,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,80-89,39,92,130,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-04,Pfizer/BioNTech,PAT,90+,17,110,126,0,1,0,0,ITH,ITH2,4,Trento
 2021-01-04,Pfizer/BioNTech,PIE,12-19,0,1,1,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-04,Pfizer/BioNTech,PIE,20-29,151,317,468,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-04,Pfizer/BioNTech,PIE,30-39,330,601,930,0,1,0,0,ITC,ITC1,1,Piemonte
@@ -959,13 +959,13 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-04,Pfizer/BioNTech,UMB,50-59,90,102,191,0,1,0,0,ITI,ITI2,10,Umbria
 2021-01-04,Pfizer/BioNTech,UMB,60-69,180,96,276,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-04,Pfizer/BioNTech,UMB,70-79,7,1,8,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-04,Pfizer/BioNTech,VDA,20-29,2,3,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-04,Pfizer/BioNTech,VDA,30-39,12,12,24,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-04,Pfizer/BioNTech,VDA,40-49,10,24,34,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-04,Pfizer/BioNTech,VDA,50-59,10,29,39,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-04,Pfizer/BioNTech,VDA,60-69,23,14,37,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-04,Pfizer/BioNTech,VDA,70-79,2,1,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-04,Pfizer/BioNTech,VDA,80-89,2,0,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-04,Pfizer/BioNTech,VDA,20-29,2,3,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-04,Pfizer/BioNTech,VDA,30-39,12,12,24,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-04,Pfizer/BioNTech,VDA,40-49,10,24,34,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-04,Pfizer/BioNTech,VDA,50-59,10,29,39,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-04,Pfizer/BioNTech,VDA,60-69,23,14,37,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-04,Pfizer/BioNTech,VDA,70-79,2,1,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-04,Pfizer/BioNTech,VDA,80-89,2,0,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-04,Pfizer/BioNTech,VEN,20-29,184,462,622,0,24,0,0,ITH,ITH3,5,Veneto
 2021-01-04,Pfizer/BioNTech,VEN,30-39,360,673,1007,0,26,0,0,ITH,ITH3,5,Veneto
 2021-01-04,Pfizer/BioNTech,VEN,40-49,333,1002,1320,0,15,0,0,ITH,ITH3,5,Veneto
@@ -1069,20 +1069,20 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-05,Pfizer/BioNTech,MOL,50-59,59,106,163,0,2,0,0,ITF,ITF2,14,Molise
 2021-01-05,Pfizer/BioNTech,MOL,60-69,58,50,106,0,2,0,0,ITF,ITF2,14,Molise
 2021-01-05,Pfizer/BioNTech,MOL,70-79,2,0,2,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-05,Pfizer/BioNTech,PAB,20-29,15,46,61,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-05,Pfizer/BioNTech,PAB,30-39,51,77,128,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-05,Pfizer/BioNTech,PAB,40-49,71,184,255,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-05,Pfizer/BioNTech,PAB,50-59,86,194,280,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-05,Pfizer/BioNTech,PAB,60-69,58,44,102,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-05,Pfizer/BioNTech,PAB,70-79,9,0,9,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-05,Pfizer/BioNTech,PAT,20-29,18,52,69,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,30-39,45,77,122,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,40-49,62,98,160,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,50-59,56,127,183,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,60-69,34,44,78,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,70-79,21,13,34,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,80-89,16,35,51,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-05,Pfizer/BioNTech,PAT,90+,11,56,67,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-05,Pfizer/BioNTech,PAB,20-29,15,46,61,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-05,Pfizer/BioNTech,PAB,30-39,51,77,128,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-05,Pfizer/BioNTech,PAB,40-49,71,184,255,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-05,Pfizer/BioNTech,PAB,50-59,86,194,280,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-05,Pfizer/BioNTech,PAB,60-69,58,44,102,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-05,Pfizer/BioNTech,PAB,70-79,9,0,9,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-05,Pfizer/BioNTech,PAT,20-29,18,52,69,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,30-39,45,77,122,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,40-49,62,98,160,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,50-59,56,127,183,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,60-69,34,44,78,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,70-79,21,13,34,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,80-89,16,35,51,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-05,Pfizer/BioNTech,PAT,90+,11,56,67,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-05,Pfizer/BioNTech,PIE,12-19,1,0,1,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-05,Pfizer/BioNTech,PIE,20-29,154,331,485,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-05,Pfizer/BioNTech,PIE,30-39,317,579,895,0,1,0,0,ITC,ITC1,1,Piemonte
@@ -1130,14 +1130,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-05,Pfizer/BioNTech,UMB,50-59,86,93,179,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-05,Pfizer/BioNTech,UMB,60-69,224,131,355,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-05,Pfizer/BioNTech,UMB,70-79,12,3,15,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-05,Pfizer/BioNTech,VDA,20-29,6,5,11,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,30-39,9,14,23,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,40-49,8,20,27,0,1,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,50-59,18,40,58,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,60-69,8,12,20,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,70-79,2,4,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,80-89,4,1,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-05,Pfizer/BioNTech,VDA,90+,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-05,Pfizer/BioNTech,VDA,20-29,6,5,11,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,30-39,9,14,23,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,40-49,8,20,27,0,1,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,50-59,18,40,58,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,60-69,8,12,20,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,70-79,2,4,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,80-89,4,1,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-05,Pfizer/BioNTech,VDA,90+,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-05,Pfizer/BioNTech,VEN,20-29,193,460,620,0,33,0,0,ITH,ITH3,5,Veneto
 2021-01-05,Pfizer/BioNTech,VEN,30-39,391,731,1097,0,25,0,0,ITH,ITH3,5,Veneto
 2021-01-05,Pfizer/BioNTech,VEN,40-49,364,1038,1391,0,11,0,0,ITH,ITH3,5,Veneto
@@ -1249,17 +1249,17 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-06,Pfizer/BioNTech,MOL,70-79,10,13,23,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-06,Pfizer/BioNTech,MOL,80-89,27,59,85,0,1,0,0,ITF,ITF2,14,Molise
 2021-01-06,Pfizer/BioNTech,MOL,90+,21,78,99,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-06,Pfizer/BioNTech,PAB,20-29,0,4,4,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-06,Pfizer/BioNTech,PAB,30-39,2,7,9,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-06,Pfizer/BioNTech,PAB,40-49,5,11,16,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-06,Pfizer/BioNTech,PAB,50-59,5,12,17,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-06,Pfizer/BioNTech,PAB,60-69,4,8,12,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-06,Pfizer/BioNTech,PAB,70-79,2,0,2,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-06,Pfizer/BioNTech,PAT,20-29,0,6,6,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-06,Pfizer/BioNTech,PAT,30-39,7,8,15,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-06,Pfizer/BioNTech,PAT,40-49,5,5,10,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-06,Pfizer/BioNTech,PAT,50-59,0,9,9,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-06,Pfizer/BioNTech,PAT,60-69,1,3,4,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-06,Pfizer/BioNTech,PAB,20-29,0,4,4,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-06,Pfizer/BioNTech,PAB,30-39,2,7,9,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-06,Pfizer/BioNTech,PAB,40-49,5,11,16,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-06,Pfizer/BioNTech,PAB,50-59,5,12,17,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-06,Pfizer/BioNTech,PAB,60-69,4,8,12,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-06,Pfizer/BioNTech,PAB,70-79,2,0,2,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-06,Pfizer/BioNTech,PAT,20-29,0,6,6,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-06,Pfizer/BioNTech,PAT,30-39,7,8,15,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-06,Pfizer/BioNTech,PAT,40-49,5,5,10,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-06,Pfizer/BioNTech,PAT,50-59,0,9,9,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-06,Pfizer/BioNTech,PAT,60-69,1,3,4,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-06,Pfizer/BioNTech,PIE,12-19,0,6,6,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-06,Pfizer/BioNTech,PIE,20-29,80,157,237,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-06,Pfizer/BioNTech,PIE,30-39,185,290,474,0,1,0,0,ITC,ITC1,1,Piemonte
@@ -1306,14 +1306,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-06,Pfizer/BioNTech,UMB,50-59,61,193,252,0,2,0,0,ITI,ITI2,10,Umbria
 2021-01-06,Pfizer/BioNTech,UMB,60-69,116,88,204,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-06,Pfizer/BioNTech,UMB,70-79,10,0,10,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-06,Pfizer/BioNTech,VDA,20-29,6,1,7,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,30-39,3,4,6,0,1,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,40-49,6,3,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,50-59,7,4,11,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,60-69,8,4,12,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,70-79,3,2,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,80-89,0,6,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-06,Pfizer/BioNTech,VDA,90+,1,8,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-06,Pfizer/BioNTech,VDA,20-29,6,1,7,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,30-39,3,4,6,0,1,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,40-49,6,3,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,50-59,7,4,11,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,60-69,8,4,12,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,70-79,3,2,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,80-89,0,6,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-06,Pfizer/BioNTech,VDA,90+,1,8,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-06,Pfizer/BioNTech,VEN,12-19,3,4,7,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-06,Pfizer/BioNTech,VEN,20-29,229,560,760,0,29,0,0,ITH,ITH3,5,Veneto
 2021-01-06,Pfizer/BioNTech,VEN,30-39,462,853,1280,0,35,0,0,ITH,ITH3,5,Veneto
@@ -1424,23 +1424,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-07,Pfizer/BioNTech,MOL,70-79,11,10,21,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-07,Pfizer/BioNTech,MOL,80-89,16,44,60,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-07,Pfizer/BioNTech,MOL,90+,8,53,61,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-07,Pfizer/BioNTech,PAB,20-29,24,41,65,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,30-39,49,82,131,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,40-49,64,165,229,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,50-59,107,197,304,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,60-69,52,63,115,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,70-79,13,8,21,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,80-89,15,22,37,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAB,90+,6,18,24,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-07,Pfizer/BioNTech,PAT,12-19,0,1,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,20-29,16,83,99,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,30-39,58,79,137,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,40-49,52,138,189,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,50-59,60,179,237,0,2,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,60-69,31,66,97,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,70-79,38,52,88,0,2,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,80-89,53,178,231,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-07,Pfizer/BioNTech,PAT,90+,26,207,232,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-07,Pfizer/BioNTech,PAB,20-29,24,41,65,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,30-39,49,82,131,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,40-49,64,165,229,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,50-59,107,197,304,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,60-69,52,63,115,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,70-79,13,8,21,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,80-89,15,22,37,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAB,90+,6,18,24,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-07,Pfizer/BioNTech,PAT,12-19,0,1,1,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,20-29,16,83,99,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,30-39,58,79,137,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,40-49,52,138,189,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,50-59,60,179,237,0,2,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,60-69,31,66,97,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,70-79,38,52,88,0,2,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,80-89,53,178,231,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-07,Pfizer/BioNTech,PAT,90+,26,207,232,0,1,0,0,ITH,ITH2,4,Trento
 2021-01-07,Pfizer/BioNTech,PIE,12-19,4,2,6,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-07,Pfizer/BioNTech,PIE,20-29,137,294,431,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-07,Pfizer/BioNTech,PIE,30-39,333,554,887,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -1492,14 +1492,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-07,Pfizer/BioNTech,UMB,70-79,31,37,68,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-07,Pfizer/BioNTech,UMB,80-89,59,122,181,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-07,Pfizer/BioNTech,UMB,90+,17,136,150,0,3,0,0,ITI,ITI2,10,Umbria
-2021-01-07,Pfizer/BioNTech,VDA,20-29,10,14,24,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,30-39,20,23,43,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,40-49,26,53,73,0,6,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,50-59,23,63,86,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,60-69,26,15,41,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,70-79,7,2,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,80-89,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-07,Pfizer/BioNTech,VDA,90+,1,0,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-07,Pfizer/BioNTech,VDA,20-29,10,14,24,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,30-39,20,23,43,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,40-49,26,53,73,0,6,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,50-59,23,63,86,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,60-69,26,15,41,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,70-79,7,2,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,80-89,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-07,Pfizer/BioNTech,VDA,90+,1,0,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-07,Pfizer/BioNTech,VEN,12-19,0,1,1,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-07,Pfizer/BioNTech,VEN,20-29,183,481,643,0,21,0,0,ITH,ITH3,5,Veneto
 2021-01-07,Pfizer/BioNTech,VEN,30-39,383,778,1123,0,38,0,0,ITH,ITH3,5,Veneto
@@ -1623,23 +1623,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-08,Pfizer/BioNTech,MOL,70-79,3,7,10,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-08,Pfizer/BioNTech,MOL,80-89,15,34,49,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-08,Pfizer/BioNTech,MOL,90+,7,41,48,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-08,Pfizer/BioNTech,PAB,12-19,0,2,2,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,20-29,38,81,119,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,30-39,63,121,184,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,40-49,89,255,344,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,50-59,122,298,420,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,60-69,67,108,175,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,70-79,37,31,67,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,80-89,47,81,126,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAB,90+,20,83,103,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-08,Pfizer/BioNTech,PAT,20-29,23,92,115,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,30-39,55,109,164,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,40-49,57,202,257,0,2,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,50-59,61,283,344,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,60-69,55,111,165,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,70-79,43,51,94,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,80-89,36,158,194,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-08,Pfizer/BioNTech,PAT,90+,23,223,245,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-08,Pfizer/BioNTech,PAB,12-19,0,2,2,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,20-29,38,81,119,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,30-39,63,121,184,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,40-49,89,255,344,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,50-59,122,298,420,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,60-69,67,108,175,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,70-79,37,31,67,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,80-89,47,81,126,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAB,90+,20,83,103,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-08,Pfizer/BioNTech,PAT,20-29,23,92,115,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,30-39,55,109,164,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,40-49,57,202,257,0,2,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,50-59,61,283,344,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,60-69,55,111,165,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,70-79,43,51,94,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,80-89,36,158,194,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-08,Pfizer/BioNTech,PAT,90+,23,223,245,0,1,0,0,ITH,ITH2,4,Trento
 2021-01-08,Pfizer/BioNTech,PIE,12-19,2,0,2,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-08,Pfizer/BioNTech,PIE,20-29,149,335,483,0,1,0,0,ITC,ITC1,1,Piemonte
 2021-01-08,Pfizer/BioNTech,PIE,30-39,329,577,906,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -1691,15 +1691,15 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-08,Pfizer/BioNTech,UMB,70-79,24,28,52,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-08,Pfizer/BioNTech,UMB,80-89,20,69,89,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-08,Pfizer/BioNTech,UMB,90+,10,64,74,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-08,Pfizer/BioNTech,VDA,12-19,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,20-29,13,21,34,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,30-39,18,28,46,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,40-49,22,38,60,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,50-59,25,58,83,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,60-69,23,14,37,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,70-79,23,3,26,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,80-89,5,4,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-08,Pfizer/BioNTech,VDA,90+,2,3,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-08,Pfizer/BioNTech,VDA,12-19,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,20-29,13,21,34,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,30-39,18,28,46,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,40-49,22,38,60,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,50-59,25,58,83,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,60-69,23,14,37,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,70-79,23,3,26,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,80-89,5,4,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-08,Pfizer/BioNTech,VDA,90+,2,3,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-08,Pfizer/BioNTech,VEN,20-29,235,534,744,0,25,0,0,ITH,ITH3,5,Veneto
 2021-01-08,Pfizer/BioNTech,VEN,30-39,422,847,1234,0,35,0,0,ITH,ITH3,5,Veneto
 2021-01-08,Pfizer/BioNTech,VEN,40-49,453,1364,1797,0,20,0,0,ITH,ITH3,5,Veneto
@@ -1812,23 +1812,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-09,Pfizer/BioNTech,MOL,70-79,5,8,13,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-09,Pfizer/BioNTech,MOL,80-89,21,49,70,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-09,Pfizer/BioNTech,MOL,90+,18,51,69,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-09,Pfizer/BioNTech,PAB,12-19,5,9,14,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,20-29,42,58,100,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,30-39,55,40,95,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,40-49,58,42,100,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,50-59,72,51,123,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,60-69,65,19,84,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,70-79,17,23,40,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,80-89,15,24,39,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAB,90+,4,22,26,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-09,Pfizer/BioNTech,PAT,20-29,1,12,13,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,30-39,10,12,22,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,40-49,8,40,48,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,50-59,8,55,63,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,60-69,6,16,22,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,70-79,8,2,10,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,80-89,1,4,5,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-09,Pfizer/BioNTech,PAT,90+,0,16,16,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-09,Pfizer/BioNTech,PAB,12-19,5,9,14,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,20-29,42,58,100,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,30-39,55,40,95,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,40-49,58,42,100,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,50-59,72,51,123,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,60-69,65,19,84,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,70-79,17,23,40,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,80-89,15,24,39,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAB,90+,4,22,26,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-09,Pfizer/BioNTech,PAT,20-29,1,12,13,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,30-39,10,12,22,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,40-49,8,40,48,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,50-59,8,55,63,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,60-69,6,16,22,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,70-79,8,2,10,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,80-89,1,4,5,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-09,Pfizer/BioNTech,PAT,90+,0,16,16,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-09,Pfizer/BioNTech,PIE,12-19,5,1,6,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-09,Pfizer/BioNTech,PIE,20-29,220,502,721,0,1,0,0,ITC,ITC1,1,Piemonte
 2021-01-09,Pfizer/BioNTech,PIE,30-39,336,586,920,0,2,0,0,ITC,ITC1,1,Piemonte
@@ -1881,15 +1881,15 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-09,Pfizer/BioNTech,UMB,70-79,55,87,142,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-09,Pfizer/BioNTech,UMB,80-89,87,256,337,0,6,0,0,ITI,ITI2,10,Umbria
 2021-01-09,Pfizer/BioNTech,UMB,90+,31,222,253,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-09,Pfizer/BioNTech,VDA,12-19,4,0,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,20-29,14,25,39,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,30-39,19,29,48,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,40-49,40,54,94,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,50-59,54,88,140,0,2,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,60-69,44,29,73,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,70-79,22,8,30,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,80-89,3,4,7,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-09,Pfizer/BioNTech,VDA,90+,1,8,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-09,Pfizer/BioNTech,VDA,12-19,4,0,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,20-29,14,25,39,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,30-39,19,29,48,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,40-49,40,54,94,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,50-59,54,88,140,0,2,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,60-69,44,29,73,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,70-79,22,8,30,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,80-89,3,4,7,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-09,Pfizer/BioNTech,VDA,90+,1,8,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-09,Pfizer/BioNTech,VEN,12-19,3,1,3,0,1,0,0,ITH,ITH3,5,Veneto
 2021-01-09,Pfizer/BioNTech,VEN,20-29,213,445,633,0,25,0,0,ITH,ITH3,5,Veneto
 2021-01-09,Pfizer/BioNTech,VEN,30-39,380,659,1021,0,18,0,0,ITH,ITH3,5,Veneto
@@ -1996,15 +1996,15 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-10,Pfizer/BioNTech,MOL,70-79,5,17,22,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-10,Pfizer/BioNTech,MOL,80-89,11,56,67,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-10,Pfizer/BioNTech,MOL,90+,15,48,63,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-10,Pfizer/BioNTech,PAB,20-29,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-10,Pfizer/BioNTech,PAB,50-59,1,0,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-10,Pfizer/BioNTech,PAT,20-29,3,10,13,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-10,Pfizer/BioNTech,PAT,30-39,3,4,7,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-10,Pfizer/BioNTech,PAT,40-49,5,12,17,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-10,Pfizer/BioNTech,PAT,50-59,6,23,29,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-10,Pfizer/BioNTech,PAT,60-69,2,7,9,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-10,Pfizer/BioNTech,PAT,80-89,0,6,6,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-10,Pfizer/BioNTech,PAT,90+,1,5,6,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-10,Pfizer/BioNTech,PAB,20-29,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-10,Pfizer/BioNTech,PAB,50-59,1,0,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-10,Pfizer/BioNTech,PAT,20-29,3,10,13,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-10,Pfizer/BioNTech,PAT,30-39,3,4,7,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-10,Pfizer/BioNTech,PAT,40-49,5,12,17,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-10,Pfizer/BioNTech,PAT,50-59,6,23,29,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-10,Pfizer/BioNTech,PAT,60-69,2,7,9,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-10,Pfizer/BioNTech,PAT,80-89,0,6,6,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-10,Pfizer/BioNTech,PAT,90+,1,5,6,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-10,Pfizer/BioNTech,PIE,12-19,11,11,22,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-10,Pfizer/BioNTech,PIE,20-29,339,572,909,0,2,0,0,ITC,ITC1,1,Piemonte
 2021-01-10,Pfizer/BioNTech,PIE,30-39,333,415,747,0,1,0,0,ITC,ITC1,1,Piemonte
@@ -2057,14 +2057,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-10,Pfizer/BioNTech,UMB,70-79,17,25,42,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-10,Pfizer/BioNTech,UMB,80-89,38,100,138,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-10,Pfizer/BioNTech,UMB,90+,17,104,121,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-10,Pfizer/BioNTech,VDA,20-29,2,12,14,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,30-39,13,33,46,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,40-49,12,31,43,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,50-59,20,50,69,0,1,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,60-69,16,17,33,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,70-79,6,4,10,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,80-89,2,3,4,0,1,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-10,Pfizer/BioNTech,VDA,90+,1,1,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-10,Pfizer/BioNTech,VDA,20-29,2,12,14,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,30-39,13,33,46,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,40-49,12,31,43,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,50-59,20,50,69,0,1,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,60-69,16,17,33,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,70-79,6,4,10,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,80-89,2,3,4,0,1,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-10,Pfizer/BioNTech,VDA,90+,1,1,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-10,Pfizer/BioNTech,VEN,12-19,4,7,11,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-10,Pfizer/BioNTech,VEN,20-29,180,345,508,0,17,0,0,ITH,ITH3,5,Veneto
 2021-01-10,Pfizer/BioNTech,VEN,30-39,264,482,728,0,18,0,0,ITH,ITH3,5,Veneto
@@ -2187,22 +2187,22 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-11,Pfizer/BioNTech,MOL,70-79,12,9,21,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-11,Pfizer/BioNTech,MOL,80-89,10,28,38,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-11,Pfizer/BioNTech,MOL,90+,10,31,41,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-11,Pfizer/BioNTech,PAB,20-29,39,80,119,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,30-39,71,130,198,0,3,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,40-49,81,232,313,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,50-59,116,304,418,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,60-69,102,87,189,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,70-79,47,39,86,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,80-89,51,104,155,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAB,90+,27,116,142,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-11,Pfizer/BioNTech,PAT,20-29,16,50,66,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,30-39,53,59,112,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,40-49,33,122,155,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,50-59,61,130,190,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,60-69,41,66,107,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,70-79,16,26,42,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,80-89,18,42,60,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-11,Pfizer/BioNTech,PAT,90+,4,49,53,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-11,Pfizer/BioNTech,PAB,20-29,39,80,119,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,30-39,71,130,198,0,3,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,40-49,81,232,313,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,50-59,116,304,418,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,60-69,102,87,189,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,70-79,47,39,86,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,80-89,51,104,155,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAB,90+,27,116,142,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-11,Pfizer/BioNTech,PAT,20-29,16,50,66,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,30-39,53,59,112,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,40-49,33,122,155,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,50-59,61,130,190,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,60-69,41,66,107,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,70-79,16,26,42,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,80-89,18,42,60,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-11,Pfizer/BioNTech,PAT,90+,4,49,53,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-11,Pfizer/BioNTech,PIE,12-19,8,15,23,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-11,Pfizer/BioNTech,PIE,20-29,309,724,1033,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-11,Pfizer/BioNTech,PIE,30-39,484,819,1300,0,3,0,0,ITC,ITC1,1,Piemonte
@@ -2255,14 +2255,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-11,Pfizer/BioNTech,UMB,70-79,30,48,78,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-11,Pfizer/BioNTech,UMB,80-89,44,136,180,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-11,Pfizer/BioNTech,UMB,90+,19,117,136,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-11,Pfizer/BioNTech,VDA,20-29,13,13,26,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,30-39,13,39,51,0,1,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,40-49,19,54,73,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,50-59,25,67,92,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,60-69,24,23,47,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,70-79,12,6,18,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,80-89,3,9,12,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-11,Pfizer/BioNTech,VDA,90+,4,4,8,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-11,Pfizer/BioNTech,VDA,20-29,13,13,26,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,30-39,13,39,51,0,1,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,40-49,19,54,73,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,50-59,25,67,92,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,60-69,24,23,47,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,70-79,12,6,18,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,80-89,3,9,12,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-11,Pfizer/BioNTech,VDA,90+,4,4,8,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-11,Pfizer/BioNTech,VEN,12-19,1,3,4,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-11,Pfizer/BioNTech,VEN,20-29,146,338,463,0,21,0,0,ITH,ITH3,5,Veneto
 2021-01-11,Pfizer/BioNTech,VEN,30-39,242,538,763,0,17,0,0,ITH,ITH3,5,Veneto
@@ -2389,22 +2389,22 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-12,Pfizer/BioNTech,MOL,70-79,10,15,25,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-12,Pfizer/BioNTech,MOL,80-89,11,41,52,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-12,Pfizer/BioNTech,MOL,90+,11,41,52,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-12,Pfizer/BioNTech,PAB,20-29,36,169,204,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,30-39,49,114,163,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,40-49,59,191,250,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,50-59,88,235,323,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,60-69,66,102,166,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,70-79,71,75,145,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,80-89,63,186,249,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAB,90+,37,190,226,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-12,Pfizer/BioNTech,PAT,20-29,12,48,60,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,30-39,41,53,94,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,40-49,35,78,113,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,50-59,40,114,153,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,60-69,33,35,67,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,70-79,5,11,16,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,80-89,11,14,25,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-12,Pfizer/BioNTech,PAT,90+,3,23,26,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-12,Pfizer/BioNTech,PAB,20-29,36,169,204,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,30-39,49,114,163,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,40-49,59,191,250,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,50-59,88,235,323,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,60-69,66,102,166,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,70-79,71,75,145,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,80-89,63,186,249,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAB,90+,37,190,226,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-12,Pfizer/BioNTech,PAT,20-29,12,48,60,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,30-39,41,53,94,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,40-49,35,78,113,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,50-59,40,114,153,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,60-69,33,35,67,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,70-79,5,11,16,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,80-89,11,14,25,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-12,Pfizer/BioNTech,PAT,90+,3,23,26,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-12,Pfizer/BioNTech,PIE,12-19,6,6,12,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-12,Pfizer/BioNTech,PIE,20-29,399,701,1099,0,1,0,0,ITC,ITC1,1,Piemonte
 2021-01-12,Pfizer/BioNTech,PIE,30-39,516,942,1456,0,2,0,0,ITC,ITC1,1,Piemonte
@@ -2455,14 +2455,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-12,Pfizer/BioNTech,UMB,70-79,9,7,16,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-12,Pfizer/BioNTech,UMB,80-89,11,50,61,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-12,Pfizer/BioNTech,UMB,90+,6,46,52,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-12,Pfizer/BioNTech,VDA,20-29,7,16,23,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,30-39,11,27,38,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,40-49,16,54,69,0,1,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,50-59,20,87,107,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,60-69,16,35,51,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,70-79,3,2,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,80-89,0,6,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-12,Pfizer/BioNTech,VDA,90+,0,3,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-12,Pfizer/BioNTech,VDA,20-29,7,16,23,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,30-39,11,27,38,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,40-49,16,54,69,0,1,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,50-59,20,87,107,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,60-69,16,35,51,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,70-79,3,2,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,80-89,0,6,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-12,Pfizer/BioNTech,VDA,90+,0,3,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-12,Pfizer/BioNTech,VEN,12-19,1,1,2,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-12,Pfizer/BioNTech,VEN,20-29,123,242,352,0,13,0,0,ITH,ITH3,5,Veneto
 2021-01-12,Pfizer/BioNTech,VEN,30-39,175,331,496,0,10,0,0,ITH,ITH3,5,Veneto
@@ -2583,23 +2583,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-13,Pfizer/BioNTech,MOL,70-79,14,10,24,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-13,Pfizer/BioNTech,MOL,80-89,18,47,65,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-13,Pfizer/BioNTech,MOL,90+,10,45,55,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-13,Pfizer/BioNTech,PAB,12-19,0,2,2,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,20-29,52,156,208,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,30-39,52,122,173,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,40-49,102,240,341,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,50-59,111,257,366,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,60-69,87,114,201,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,70-79,54,41,93,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,80-89,92,143,233,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAB,90+,46,130,173,0,3,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-13,Pfizer/BioNTech,PAT,20-29,3,38,41,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,30-39,26,60,86,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,40-49,27,65,91,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,50-59,34,103,137,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,60-69,34,33,67,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,70-79,5,1,6,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,80-89,2,8,10,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-13,Pfizer/BioNTech,PAT,90+,1,8,9,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-13,Pfizer/BioNTech,PAB,12-19,0,2,2,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,20-29,52,156,208,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,30-39,52,122,173,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,40-49,102,240,341,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,50-59,111,257,366,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,60-69,87,114,201,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,70-79,54,41,93,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,80-89,92,143,233,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAB,90+,46,130,173,0,3,0,0,ITH,ITH1,4,Bolzano
+2021-01-13,Pfizer/BioNTech,PAT,20-29,3,38,41,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,30-39,26,60,86,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,40-49,27,65,91,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,50-59,34,103,137,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,60-69,34,33,67,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,70-79,5,1,6,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,80-89,2,8,10,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-13,Pfizer/BioNTech,PAT,90+,1,8,9,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-13,Pfizer/BioNTech,PIE,12-19,11,11,22,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-13,Pfizer/BioNTech,PIE,20-29,316,745,1058,0,3,0,0,ITC,ITC1,1,Piemonte
 2021-01-13,Pfizer/BioNTech,PIE,30-39,523,924,1444,0,3,0,0,ITC,ITC1,1,Piemonte
@@ -2651,14 +2651,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-13,Pfizer/BioNTech,UMB,70-79,1,4,5,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-13,Pfizer/BioNTech,UMB,80-89,2,16,18,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-13,Pfizer/BioNTech,UMB,90+,3,12,15,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-13,Pfizer/BioNTech,VDA,20-29,4,13,17,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,30-39,15,35,50,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,40-49,27,43,70,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,50-59,36,89,125,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,60-69,16,29,45,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,70-79,7,7,14,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,80-89,6,7,13,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-13,Pfizer/BioNTech,VDA,90+,0,6,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-13,Pfizer/BioNTech,VDA,20-29,4,13,17,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,30-39,15,35,50,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,40-49,27,43,70,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,50-59,36,89,125,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,60-69,16,29,45,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,70-79,7,7,14,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,80-89,6,7,13,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-13,Pfizer/BioNTech,VDA,90+,0,6,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-13,Pfizer/BioNTech,VEN,12-19,1,1,2,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-13,Pfizer/BioNTech,VEN,20-29,141,322,449,0,14,0,0,ITH,ITH3,5,Veneto
 2021-01-13,Pfizer/BioNTech,VEN,30-39,198,449,634,0,13,0,0,ITH,ITH3,5,Veneto
@@ -2787,22 +2787,22 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-14,Pfizer/BioNTech,MOL,70-79,12,11,23,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-14,Pfizer/BioNTech,MOL,80-89,15,26,41,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-14,Pfizer/BioNTech,MOL,90+,3,28,31,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-14,Pfizer/BioNTech,PAB,20-29,38,84,121,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,30-39,58,137,193,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,40-49,59,241,299,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,50-59,123,367,488,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,60-69,81,127,208,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,70-79,50,44,93,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,80-89,146,239,384,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAB,90+,53,184,234,0,3,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-14,Pfizer/BioNTech,PAT,20-29,9,40,48,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,30-39,37,57,92,0,2,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,40-49,30,111,139,0,2,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,50-59,36,138,174,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,60-69,41,48,89,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,70-79,14,20,34,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,80-89,28,43,70,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-14,Pfizer/BioNTech,PAT,90+,24,64,87,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-14,Pfizer/BioNTech,PAB,20-29,38,84,121,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,30-39,58,137,193,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,40-49,59,241,299,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,50-59,123,367,488,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,60-69,81,127,208,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,70-79,50,44,93,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,80-89,146,239,384,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAB,90+,53,184,234,0,3,0,0,ITH,ITH1,4,Bolzano
+2021-01-14,Pfizer/BioNTech,PAT,20-29,9,40,48,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,30-39,37,57,92,0,2,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,40-49,30,111,139,0,2,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,50-59,36,138,174,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,60-69,41,48,89,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,70-79,14,20,34,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,80-89,28,43,70,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-14,Pfizer/BioNTech,PAT,90+,24,64,87,0,1,0,0,ITH,ITH2,4,Trento
 2021-01-14,Pfizer/BioNTech,PIE,12-19,9,10,19,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-14,Pfizer/BioNTech,PIE,20-29,336,788,1118,0,6,0,0,ITC,ITC1,1,Piemonte
 2021-01-14,Pfizer/BioNTech,PIE,30-39,496,901,1382,0,15,0,0,ITC,ITC1,1,Piemonte
@@ -2853,13 +2853,13 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-14,Pfizer/BioNTech,UMB,70-79,7,8,15,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-14,Pfizer/BioNTech,UMB,80-89,6,8,14,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-14,Pfizer/BioNTech,UMB,90+,0,7,7,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-14,Pfizer/BioNTech,VDA,20-29,6,9,15,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-14,Pfizer/BioNTech,VDA,30-39,11,20,31,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-14,Pfizer/BioNTech,VDA,40-49,20,43,63,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-14,Pfizer/BioNTech,VDA,50-59,19,65,84,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-14,Pfizer/BioNTech,VDA,60-69,10,26,36,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-14,Pfizer/BioNTech,VDA,70-79,3,3,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-14,Pfizer/BioNTech,VDA,80-89,0,2,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-14,Pfizer/BioNTech,VDA,20-29,6,9,15,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-14,Pfizer/BioNTech,VDA,30-39,11,20,31,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-14,Pfizer/BioNTech,VDA,40-49,20,43,63,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-14,Pfizer/BioNTech,VDA,50-59,19,65,84,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-14,Pfizer/BioNTech,VDA,60-69,10,26,36,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-14,Pfizer/BioNTech,VDA,70-79,3,3,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-14,Pfizer/BioNTech,VDA,80-89,0,2,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-14,Pfizer/BioNTech,VEN,12-19,2,6,8,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-14,Pfizer/BioNTech,VEN,20-29,150,353,484,0,19,0,0,ITH,ITH3,5,Veneto
 2021-01-14,Pfizer/BioNTech,VEN,30-39,228,504,716,0,16,0,0,ITH,ITH3,5,Veneto
@@ -2908,14 +2908,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-15,Moderna,TOS,30-39,2,2,4,0,0,0,0,ITI,ITI1,9,Toscana
 2021-01-15,Moderna,TOS,40-49,1,3,4,0,0,0,0,ITI,ITI1,9,Toscana
 2021-01-15,Moderna,TOS,50-59,0,3,3,0,0,0,0,ITI,ITI1,9,Toscana
-2021-01-15,Moderna,VDA,20-29,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,30-39,0,2,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,40-49,2,4,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,50-59,2,1,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,60-69,1,2,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,70-79,1,2,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,80-89,3,8,11,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Moderna,VDA,90+,2,9,11,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-15,Moderna,VDA,20-29,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,30-39,0,2,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,40-49,2,4,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,50-59,2,1,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,60-69,1,2,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,70-79,1,2,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,80-89,3,8,11,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Moderna,VDA,90+,2,9,11,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-15,Moderna,VEN,50-59,0,2,2,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-15,Pfizer/BioNTech,ABR,20-29,7,16,23,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-15,Pfizer/BioNTech,ABR,30-39,31,44,75,0,0,0,0,ITF,ITF1,13,Abruzzo
@@ -3011,23 +3011,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-15,Pfizer/BioNTech,MOL,70-79,8,9,14,0,3,0,0,ITF,ITF2,14,Molise
 2021-01-15,Pfizer/BioNTech,MOL,80-89,10,17,23,0,4,0,0,ITF,ITF2,14,Molise
 2021-01-15,Pfizer/BioNTech,MOL,90+,5,22,26,0,1,0,0,ITF,ITF2,14,Molise
-2021-01-15,Pfizer/BioNTech,PAB,12-19,0,1,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,20-29,65,87,152,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,30-39,104,191,292,0,3,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,40-49,93,289,380,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,50-59,152,385,535,0,2,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,60-69,88,137,225,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,70-79,46,34,79,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,80-89,572,730,1302,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAB,90+,126,230,356,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-15,Pfizer/BioNTech,PAT,20-29,14,46,60,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,30-39,34,70,104,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,40-49,27,94,121,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,50-59,31,150,180,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,60-69,18,31,49,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,70-79,8,13,21,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,80-89,8,38,46,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-15,Pfizer/BioNTech,PAT,90+,7,38,44,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-15,Pfizer/BioNTech,PAB,12-19,0,1,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,20-29,65,87,152,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,30-39,104,191,292,0,3,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,40-49,93,289,380,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,50-59,152,385,535,0,2,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,60-69,88,137,225,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,70-79,46,34,79,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,80-89,572,730,1302,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAB,90+,126,230,356,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-15,Pfizer/BioNTech,PAT,20-29,14,46,60,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,30-39,34,70,104,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,40-49,27,94,121,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,50-59,31,150,180,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,60-69,18,31,49,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,70-79,8,13,21,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,80-89,8,38,46,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-15,Pfizer/BioNTech,PAT,90+,7,38,44,0,1,0,0,ITH,ITH2,4,Trento
 2021-01-15,Pfizer/BioNTech,PIE,12-19,6,9,15,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-15,Pfizer/BioNTech,PIE,20-29,286,670,956,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-15,Pfizer/BioNTech,PIE,30-39,441,838,1274,0,5,0,0,ITC,ITC1,1,Piemonte
@@ -3080,13 +3080,13 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-15,Pfizer/BioNTech,UMB,70-79,16,13,29,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-15,Pfizer/BioNTech,UMB,80-89,17,34,51,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-15,Pfizer/BioNTech,UMB,90+,7,24,31,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-15,Pfizer/BioNTech,VDA,20-29,4,11,15,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Pfizer/BioNTech,VDA,30-39,11,20,31,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Pfizer/BioNTech,VDA,40-49,10,15,25,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Pfizer/BioNTech,VDA,50-59,27,26,53,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Pfizer/BioNTech,VDA,60-69,16,16,32,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Pfizer/BioNTech,VDA,70-79,3,15,18,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-15,Pfizer/BioNTech,VDA,80-89,1,5,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-15,Pfizer/BioNTech,VDA,20-29,4,11,15,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Pfizer/BioNTech,VDA,30-39,11,20,31,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Pfizer/BioNTech,VDA,40-49,10,15,25,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Pfizer/BioNTech,VDA,50-59,27,26,53,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Pfizer/BioNTech,VDA,60-69,16,16,32,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Pfizer/BioNTech,VDA,70-79,3,15,18,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-15,Pfizer/BioNTech,VDA,80-89,1,5,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-15,Pfizer/BioNTech,VEN,12-19,2,3,5,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-15,Pfizer/BioNTech,VEN,20-29,175,348,507,0,16,0,0,ITH,ITH3,5,Veneto
 2021-01-15,Pfizer/BioNTech,VEN,30-39,274,550,808,0,16,0,0,ITH,ITH3,5,Veneto
@@ -3132,11 +3132,11 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-16,Moderna,SIC,70-79,7,2,9,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-16,Moderna,SIC,80-89,10,23,33,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-16,Moderna,SIC,90+,15,22,36,0,1,0,0,ITG,ITG1,19,Sicilia
-2021-01-16,Moderna,VDA,50-59,0,5,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Moderna,VDA,60-69,1,2,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Moderna,VDA,70-79,3,1,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Moderna,VDA,80-89,5,5,10,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Moderna,VDA,90+,2,3,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-16,Moderna,VDA,50-59,0,5,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Moderna,VDA,60-69,1,2,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Moderna,VDA,70-79,3,1,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Moderna,VDA,80-89,5,5,10,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Moderna,VDA,90+,2,3,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-16,Pfizer/BioNTech,ABR,12-19,1,0,1,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-16,Pfizer/BioNTech,ABR,20-29,7,28,35,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-16,Pfizer/BioNTech,ABR,30-39,22,53,75,0,0,0,0,ITF,ITF1,13,Abruzzo
@@ -3233,23 +3233,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-16,Pfizer/BioNTech,MOL,70-79,11,13,24,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-16,Pfizer/BioNTech,MOL,80-89,10,48,58,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-16,Pfizer/BioNTech,MOL,90+,8,33,41,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-16,Pfizer/BioNTech,PAB,12-19,1,6,7,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,20-29,13,45,58,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,30-39,35,76,111,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,40-49,51,102,153,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,50-59,96,113,208,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,60-69,87,76,163,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,70-79,79,43,122,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,80-89,771,923,1691,0,3,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAB,90+,137,198,335,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-16,Pfizer/BioNTech,PAT,20-29,3,6,9,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,30-39,10,26,36,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,40-49,10,34,44,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,50-59,16,53,69,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,60-69,22,22,44,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,70-79,78,22,100,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,80-89,10,5,15,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-16,Pfizer/BioNTech,PAT,90+,2,7,9,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-16,Pfizer/BioNTech,PAB,12-19,1,6,7,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,20-29,13,45,58,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,30-39,35,76,111,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,40-49,51,102,153,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,50-59,96,113,208,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,60-69,87,76,163,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,70-79,79,43,122,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,80-89,771,923,1691,0,3,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAB,90+,137,198,335,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-16,Pfizer/BioNTech,PAT,20-29,3,6,9,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,30-39,10,26,36,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,40-49,10,34,44,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,50-59,16,53,69,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,60-69,22,22,44,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,70-79,78,22,100,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,80-89,10,5,15,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-16,Pfizer/BioNTech,PAT,90+,2,7,9,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-16,Pfizer/BioNTech,PIE,12-19,11,3,14,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-16,Pfizer/BioNTech,PIE,20-29,268,521,787,0,2,0,0,ITC,ITC1,1,Piemonte
 2021-01-16,Pfizer/BioNTech,PIE,30-39,412,692,1103,0,1,0,0,ITC,ITC1,1,Piemonte
@@ -3300,15 +3300,15 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-16,Pfizer/BioNTech,UMB,70-79,3,2,5,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-16,Pfizer/BioNTech,UMB,80-89,5,9,14,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-16,Pfizer/BioNTech,UMB,90+,2,6,8,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-16,Pfizer/BioNTech,VDA,12-19,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,20-29,12,52,64,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,30-39,11,13,24,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,40-49,8,13,21,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,50-59,11,27,38,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,60-69,6,5,11,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,70-79,1,1,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,80-89,0,5,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-16,Pfizer/BioNTech,VDA,90+,20,27,47,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-16,Pfizer/BioNTech,VDA,12-19,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,20-29,12,52,64,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,30-39,11,13,24,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,40-49,8,13,21,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,50-59,11,27,38,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,60-69,6,5,11,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,70-79,1,1,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,80-89,0,5,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-16,Pfizer/BioNTech,VDA,90+,20,27,47,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-16,Pfizer/BioNTech,VEN,12-19,8,11,19,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-16,Pfizer/BioNTech,VEN,20-29,170,354,512,0,12,0,0,ITH,ITH3,5,Veneto
 2021-01-16,Pfizer/BioNTech,VEN,30-39,228,443,660,0,11,0,0,ITH,ITH3,5,Veneto
@@ -3336,10 +3336,10 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-17,Moderna,SIC,80-89,25,67,92,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-17,Moderna,SIC,90+,14,43,57,0,0,0,0,ITG,ITG1,19,Sicilia
 2021-01-17,Moderna,TOS,40-49,0,1,1,0,0,0,0,ITI,ITI1,9,Toscana
-2021-01-17,Moderna,VDA,50-59,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Moderna,VDA,70-79,2,1,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Moderna,VDA,80-89,3,10,13,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Moderna,VDA,90+,0,4,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-17,Moderna,VDA,50-59,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Moderna,VDA,70-79,2,1,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Moderna,VDA,80-89,3,10,13,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Moderna,VDA,90+,0,4,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-17,Moderna,VEN,12-19,1,0,1,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-17,Moderna,VEN,40-49,1,0,1,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-17,Pfizer/BioNTech,ABR,20-29,6,13,19,0,0,0,0,ITF,ITF1,13,Abruzzo
@@ -3434,22 +3434,22 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-17,Pfizer/BioNTech,MOL,50-59,13,12,15,10,0,0,0,ITF,ITF2,14,Molise
 2021-01-17,Pfizer/BioNTech,MOL,60-69,15,14,25,4,0,0,0,ITF,ITF2,14,Molise
 2021-01-17,Pfizer/BioNTech,MOL,70-79,1,0,1,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-17,Pfizer/BioNTech,PAB,12-19,0,1,1,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,20-29,4,11,14,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,30-39,16,17,33,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,40-49,25,32,54,3,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,50-59,41,54,92,3,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,60-69,56,28,81,2,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,70-79,32,21,53,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,80-89,754,909,1661,1,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAB,90+,128,219,346,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-17,Pfizer/BioNTech,PAT,20-29,3,0,3,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-17,Pfizer/BioNTech,PAT,30-39,5,1,6,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-17,Pfizer/BioNTech,PAT,40-49,1,1,2,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-17,Pfizer/BioNTech,PAT,50-59,68,28,96,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-17,Pfizer/BioNTech,PAT,60-69,93,23,116,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-17,Pfizer/BioNTech,PAT,70-79,28,3,31,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-17,Pfizer/BioNTech,PAT,80-89,2,0,2,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-17,Pfizer/BioNTech,PAB,12-19,0,1,1,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,20-29,4,11,14,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,30-39,16,17,33,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,40-49,25,32,54,3,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,50-59,41,54,92,3,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,60-69,56,28,81,2,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,70-79,32,21,53,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,80-89,754,909,1661,1,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAB,90+,128,219,346,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-17,Pfizer/BioNTech,PAT,20-29,3,0,3,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-17,Pfizer/BioNTech,PAT,30-39,5,1,6,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-17,Pfizer/BioNTech,PAT,40-49,1,1,2,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-17,Pfizer/BioNTech,PAT,50-59,68,28,96,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-17,Pfizer/BioNTech,PAT,60-69,93,23,116,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-17,Pfizer/BioNTech,PAT,70-79,28,3,31,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-17,Pfizer/BioNTech,PAT,80-89,2,0,2,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-17,Pfizer/BioNTech,PIE,12-19,0,4,4,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-17,Pfizer/BioNTech,PIE,20-29,105,226,266,65,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-17,Pfizer/BioNTech,PIE,30-39,159,284,313,128,2,0,0,ITC,ITC1,1,Piemonte
@@ -3497,13 +3497,13 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-17,Pfizer/BioNTech,UMB,50-59,4,16,20,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-17,Pfizer/BioNTech,UMB,60-69,6,8,14,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-17,Pfizer/BioNTech,UMB,70-79,1,0,1,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-17,Pfizer/BioNTech,VDA,20-29,4,5,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Pfizer/BioNTech,VDA,30-39,3,3,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Pfizer/BioNTech,VDA,40-49,11,6,17,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Pfizer/BioNTech,VDA,50-59,7,9,16,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Pfizer/BioNTech,VDA,60-69,0,3,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Pfizer/BioNTech,VDA,80-89,0,4,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-17,Pfizer/BioNTech,VDA,90+,26,29,55,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-17,Pfizer/BioNTech,VDA,20-29,4,5,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Pfizer/BioNTech,VDA,30-39,3,3,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Pfizer/BioNTech,VDA,40-49,11,6,17,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Pfizer/BioNTech,VDA,50-59,7,9,16,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Pfizer/BioNTech,VDA,60-69,0,3,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Pfizer/BioNTech,VDA,80-89,0,4,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-17,Pfizer/BioNTech,VDA,90+,26,29,55,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-17,Pfizer/BioNTech,VEN,12-19,5,11,16,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-17,Pfizer/BioNTech,VEN,20-29,71,115,172,14,0,0,0,ITH,ITH3,5,Veneto
 2021-01-17,Pfizer/BioNTech,VEN,30-39,116,156,213,58,1,0,0,ITH,ITH3,5,Veneto
@@ -3541,12 +3541,12 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-18,Moderna,TOS,70-79,57,12,69,0,0,0,0,ITI,ITI1,9,Toscana
 2021-01-18,Moderna,TOS,80-89,8,1,9,0,0,0,0,ITI,ITI1,9,Toscana
 2021-01-18,Moderna,TOS,90+,0,1,1,0,0,0,0,ITI,ITI1,9,Toscana
-2021-01-18,Moderna,VDA,40-49,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Moderna,VDA,50-59,2,1,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Moderna,VDA,60-69,3,1,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Moderna,VDA,70-79,2,2,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Moderna,VDA,80-89,6,8,14,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Moderna,VDA,90+,0,6,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-18,Moderna,VDA,40-49,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Moderna,VDA,50-59,2,1,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Moderna,VDA,60-69,3,1,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Moderna,VDA,70-79,2,2,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Moderna,VDA,80-89,6,8,14,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Moderna,VDA,90+,0,6,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-18,Moderna,VEN,20-29,0,8,8,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-18,Moderna,VEN,30-39,4,10,14,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-18,Moderna,VEN,40-49,0,21,20,0,1,0,0,ITH,ITH3,5,Veneto
@@ -3645,23 +3645,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-18,Pfizer/BioNTech,MOL,50-59,10,17,27,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-18,Pfizer/BioNTech,MOL,60-69,14,17,31,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-18,Pfizer/BioNTech,MOL,70-79,4,0,4,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-18,Pfizer/BioNTech,PAB,12-19,0,4,4,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,20-29,23,56,79,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,30-39,34,98,132,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,40-49,59,122,180,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,50-59,73,154,224,3,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,60-69,33,49,82,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,70-79,25,35,60,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,80-89,393,493,885,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAB,90+,52,95,146,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-18,Pfizer/BioNTech,PAT,20-29,21,59,77,3,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,30-39,31,80,104,7,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,40-49,19,138,145,11,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,50-59,44,152,173,23,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,60-69,33,47,64,16,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,70-79,9,3,12,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,80-89,7,24,31,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-18,Pfizer/BioNTech,PAT,90+,6,26,32,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-18,Pfizer/BioNTech,PAB,12-19,0,4,4,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,20-29,23,56,79,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,30-39,34,98,132,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,40-49,59,122,180,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,50-59,73,154,224,3,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,60-69,33,49,82,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,70-79,25,35,60,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,80-89,393,493,885,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAB,90+,52,95,146,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-18,Pfizer/BioNTech,PAT,20-29,21,59,77,3,0,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,30-39,31,80,104,7,0,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,40-49,19,138,145,11,1,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,50-59,44,152,173,23,0,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,60-69,33,47,64,16,0,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,70-79,9,3,12,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,80-89,7,24,31,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-18,Pfizer/BioNTech,PAT,90+,6,26,32,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-18,Pfizer/BioNTech,PIE,12-19,3,10,13,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-18,Pfizer/BioNTech,PIE,20-29,180,349,522,6,1,0,0,ITC,ITC1,1,Piemonte
 2021-01-18,Pfizer/BioNTech,PIE,30-39,222,462,666,16,2,0,0,ITC,ITC1,1,Piemonte
@@ -3713,13 +3713,13 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-18,Pfizer/BioNTech,UMB,70-79,11,9,14,6,0,0,0,ITI,ITI2,10,Umbria
 2021-01-18,Pfizer/BioNTech,UMB,80-89,21,64,79,6,0,0,0,ITI,ITI2,10,Umbria
 2021-01-18,Pfizer/BioNTech,UMB,90+,18,57,74,1,0,0,0,ITI,ITI2,10,Umbria
-2021-01-18,Pfizer/BioNTech,VDA,20-29,1,3,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Pfizer/BioNTech,VDA,30-39,2,1,3,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Pfizer/BioNTech,VDA,40-49,3,6,9,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Pfizer/BioNTech,VDA,50-59,4,4,8,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Pfizer/BioNTech,VDA,60-69,30,82,112,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Pfizer/BioNTech,VDA,80-89,1,4,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-18,Pfizer/BioNTech,VDA,90+,20,21,41,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-18,Pfizer/BioNTech,VDA,20-29,1,3,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Pfizer/BioNTech,VDA,30-39,2,1,3,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Pfizer/BioNTech,VDA,40-49,3,6,9,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Pfizer/BioNTech,VDA,50-59,4,4,8,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Pfizer/BioNTech,VDA,60-69,30,82,112,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Pfizer/BioNTech,VDA,80-89,1,4,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-18,Pfizer/BioNTech,VDA,90+,20,21,41,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-18,Pfizer/BioNTech,VEN,12-19,1,0,1,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-18,Pfizer/BioNTech,VEN,20-29,66,122,174,11,3,0,0,ITH,ITH3,5,Veneto
 2021-01-18,Pfizer/BioNTech,VEN,30-39,101,177,244,31,3,0,0,ITH,ITH3,5,Veneto
@@ -3875,22 +3875,22 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-19,Pfizer/BioNTech,MOL,70-79,1,2,3,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-19,Pfizer/BioNTech,MOL,80-89,5,9,9,5,0,0,0,ITF,ITF2,14,Molise
 2021-01-19,Pfizer/BioNTech,MOL,90+,3,7,7,3,0,0,0,ITF,ITF2,14,Molise
-2021-01-19,Pfizer/BioNTech,PAB,20-29,8,20,23,5,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,30-39,22,27,28,21,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,40-49,31,39,34,36,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,50-59,33,50,35,48,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,60-69,18,20,17,21,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,70-79,6,3,7,1,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,80-89,216,259,474,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAB,90+,40,67,107,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-19,Pfizer/BioNTech,PAT,20-29,9,48,57,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,30-39,26,73,99,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,40-49,12,70,82,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,50-59,19,99,117,0,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,60-69,18,31,49,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,70-79,1,4,5,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,80-89,2,9,11,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-19,Pfizer/BioNTech,PAT,90+,2,14,16,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-19,Pfizer/BioNTech,PAB,20-29,8,20,23,5,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,30-39,22,27,28,21,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,40-49,31,39,34,36,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,50-59,33,50,35,48,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,60-69,18,20,17,21,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,70-79,6,3,7,1,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,80-89,216,259,474,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAB,90+,40,67,107,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-19,Pfizer/BioNTech,PAT,20-29,9,48,57,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,30-39,26,73,99,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,40-49,12,70,82,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,50-59,19,99,117,0,1,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,60-69,18,31,49,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,70-79,1,4,5,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,80-89,2,9,11,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-19,Pfizer/BioNTech,PAT,90+,2,14,16,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-19,Pfizer/BioNTech,PIE,12-19,6,7,13,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-19,Pfizer/BioNTech,PIE,20-29,210,503,712,1,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-19,Pfizer/BioNTech,PIE,30-39,244,498,742,0,0,0,0,ITC,ITC1,1,Piemonte
@@ -3943,14 +3943,14 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-19,Pfizer/BioNTech,UMB,70-79,2,7,9,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-19,Pfizer/BioNTech,UMB,80-89,13,24,37,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-19,Pfizer/BioNTech,UMB,90+,2,31,33,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-19,Pfizer/BioNTech,VDA,20-29,1,4,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,30-39,3,5,8,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,40-49,6,7,13,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,50-59,14,31,45,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,60-69,24,87,111,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,70-79,3,2,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,80-89,3,13,16,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-19,Pfizer/BioNTech,VDA,90+,23,30,53,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-19,Pfizer/BioNTech,VDA,20-29,1,4,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,30-39,3,5,8,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,40-49,6,7,13,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,50-59,14,31,45,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,60-69,24,87,111,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,70-79,3,2,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,80-89,3,13,16,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-19,Pfizer/BioNTech,VDA,90+,23,30,53,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-19,Pfizer/BioNTech,VEN,12-19,0,1,1,0,0,0,0,ITH,ITH3,5,Veneto
 2021-01-19,Pfizer/BioNTech,VEN,20-29,26,59,74,9,2,0,0,ITH,ITH3,5,Veneto
 2021-01-19,Pfizer/BioNTech,VEN,30-39,55,86,128,12,1,0,0,ITH,ITH3,5,Veneto
@@ -4026,11 +4026,11 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-20,Moderna,UMB,60-69,56,67,123,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-20,Moderna,UMB,70-79,30,4,34,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-20,Moderna,UMB,80-89,1,0,1,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-20,Moderna,VDA,30-39,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-20,Moderna,VDA,60-69,4,0,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-20,Moderna,VDA,70-79,1,3,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-20,Moderna,VDA,80-89,0,6,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-20,Moderna,VDA,90+,1,6,7,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-20,Moderna,VDA,30-39,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-20,Moderna,VDA,60-69,4,0,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-20,Moderna,VDA,70-79,1,3,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-20,Moderna,VDA,80-89,0,6,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-20,Moderna,VDA,90+,1,6,7,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-20,Pfizer/BioNTech,ABR,20-29,9,10,19,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-20,Pfizer/BioNTech,ABR,30-39,6,14,20,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-20,Pfizer/BioNTech,ABR,40-49,8,30,37,1,0,0,0,ITF,ITF1,13,Abruzzo
@@ -4118,23 +4118,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-20,Pfizer/BioNTech,MOL,30-39,4,4,8,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-20,Pfizer/BioNTech,MOL,50-59,2,2,4,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-20,Pfizer/BioNTech,MOL,60-69,2,2,4,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-20,Pfizer/BioNTech,PAB,12-19,1,1,1,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,20-29,17,17,6,28,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,30-39,28,23,22,29,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,40-49,32,75,40,67,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,50-59,42,64,53,53,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,60-69,28,24,24,28,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,70-79,10,4,9,5,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,80-89,85,134,218,0,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAB,90+,13,26,39,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-20,Pfizer/BioNTech,PAT,20-29,7,23,30,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,30-39,12,41,51,2,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,40-49,15,59,70,4,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,50-59,17,57,72,2,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,60-69,17,13,27,3,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,70-79,1,2,3,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,80-89,5,15,19,1,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-20,Pfizer/BioNTech,PAT,90+,3,21,24,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-20,Pfizer/BioNTech,PAB,12-19,1,1,1,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,20-29,17,17,6,28,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,30-39,28,23,22,29,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,40-49,32,75,40,67,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,50-59,42,64,53,53,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,60-69,28,24,24,28,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,70-79,10,4,9,5,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,80-89,85,134,218,0,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAB,90+,13,26,39,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-20,Pfizer/BioNTech,PAT,20-29,7,23,30,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,30-39,12,41,51,2,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,40-49,15,59,70,4,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,50-59,17,57,72,2,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,60-69,17,13,27,3,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,70-79,1,2,3,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,80-89,5,15,19,1,0,0,0,ITH,ITH2,4,Trento
+2021-01-20,Pfizer/BioNTech,PAT,90+,3,21,24,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-20,Pfizer/BioNTech,PIE,12-19,1,4,5,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-20,Pfizer/BioNTech,PIE,20-29,179,421,511,89,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-20,Pfizer/BioNTech,PIE,30-39,271,565,703,133,0,0,0,ITC,ITC1,1,Piemonte
@@ -4183,8 +4183,8 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-20,Pfizer/BioNTech,UMB,70-79,0,1,1,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-20,Pfizer/BioNTech,UMB,80-89,0,4,4,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-20,Pfizer/BioNTech,UMB,90+,1,5,6,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-20,Pfizer/BioNTech,VDA,80-89,0,2,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-20,Pfizer/BioNTech,VDA,90+,9,31,40,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-20,Pfizer/BioNTech,VDA,80-89,0,2,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-20,Pfizer/BioNTech,VDA,90+,9,31,40,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-20,Pfizer/BioNTech,VEN,20-29,9,44,22,30,1,0,0,ITH,ITH3,5,Veneto
 2021-01-20,Pfizer/BioNTech,VEN,30-39,59,90,40,107,2,0,0,ITH,ITH3,5,Veneto
 2021-01-20,Pfizer/BioNTech,VEN,40-49,70,179,72,176,1,0,0,ITH,ITH3,5,Veneto
@@ -4267,12 +4267,12 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-21,Moderna,UMB,70-79,11,10,21,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-21,Moderna,UMB,80-89,22,66,88,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-21,Moderna,UMB,90+,15,79,94,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-21,Moderna,VDA,40-49,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-21,Moderna,VDA,50-59,0,1,1,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-21,Moderna,VDA,60-69,4,4,8,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-21,Moderna,VDA,70-79,3,3,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-21,Moderna,VDA,80-89,5,7,12,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-21,Moderna,VDA,90+,0,5,5,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-21,Moderna,VDA,40-49,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-21,Moderna,VDA,50-59,0,1,1,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-21,Moderna,VDA,60-69,4,4,8,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-21,Moderna,VDA,70-79,3,3,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-21,Moderna,VDA,80-89,5,7,12,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-21,Moderna,VDA,90+,0,5,5,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-21,Pfizer/BioNTech,ABR,40-49,0,2,2,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-21,Pfizer/BioNTech,ABR,60-69,1,2,3,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-21,Pfizer/BioNTech,ABR,70-79,3,2,5,0,0,0,0,ITF,ITF1,13,Abruzzo
@@ -4356,23 +4356,23 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-21,Pfizer/BioNTech,MOL,30-39,1,2,3,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-21,Pfizer/BioNTech,MOL,40-49,1,1,2,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-21,Pfizer/BioNTech,MOL,50-59,0,1,1,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-21,Pfizer/BioNTech,PAB,12-19,2,2,0,4,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,20-29,37,65,10,92,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,30-39,72,74,9,137,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,40-49,106,135,18,223,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,50-59,126,162,21,267,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,60-69,83,37,11,109,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,70-79,14,3,11,6,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,80-89,13,29,40,2,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAB,90+,7,15,22,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-21,Pfizer/BioNTech,PAT,20-29,11,36,29,18,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,30-39,27,67,65,29,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,40-49,20,62,48,34,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,50-59,31,76,75,32,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,60-69,13,21,20,14,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,70-79,2,1,0,3,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,80-89,2,8,10,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-21,Pfizer/BioNTech,PAT,90+,1,3,4,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-21,Pfizer/BioNTech,PAB,12-19,2,2,0,4,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,20-29,37,65,10,92,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,30-39,72,74,9,137,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,40-49,106,135,18,223,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,50-59,126,162,21,267,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,60-69,83,37,11,109,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,70-79,14,3,11,6,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,80-89,13,29,40,2,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAB,90+,7,15,22,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-21,Pfizer/BioNTech,PAT,20-29,11,36,29,18,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,30-39,27,67,65,29,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,40-49,20,62,48,34,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,50-59,31,76,75,32,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,60-69,13,21,20,14,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,70-79,2,1,0,3,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,80-89,2,8,10,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-21,Pfizer/BioNTech,PAT,90+,1,3,4,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-21,Pfizer/BioNTech,PIE,12-19,2,3,5,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-21,Pfizer/BioNTech,PIE,20-29,167,395,269,292,1,0,0,ITC,ITC1,1,Piemonte
 2021-01-21,Pfizer/BioNTech,PIE,30-39,371,615,375,607,4,0,0,ITC,ITC1,1,Piemonte
@@ -4497,10 +4497,10 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-22,Moderna,UMB,70-79,1,0,1,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-22,Moderna,UMB,80-89,1,0,1,0,0,0,0,ITI,ITI2,10,Umbria
 2021-01-22,Moderna,UMB,90+,0,1,1,0,0,0,0,ITI,ITI2,10,Umbria
-2021-01-22,Moderna,VDA,60-69,3,1,4,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-22,Moderna,VDA,70-79,5,5,10,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-22,Moderna,VDA,80-89,2,4,6,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-22,Moderna,VDA,90+,0,2,2,0,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-22,Moderna,VDA,60-69,3,1,4,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-22,Moderna,VDA,70-79,5,5,10,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-22,Moderna,VDA,80-89,2,4,6,0,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-22,Moderna,VDA,90+,0,2,2,0,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-22,Pfizer/BioNTech,ABR,60-69,2,1,3,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-22,Pfizer/BioNTech,ABR,70-79,2,2,4,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-22,Pfizer/BioNTech,ABR,80-89,2,18,20,0,0,0,0,ITF,ITF1,13,Abruzzo
@@ -4583,21 +4583,21 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-22,Pfizer/BioNTech,MOL,70-79,3,11,14,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-22,Pfizer/BioNTech,MOL,80-89,9,23,32,0,0,0,0,ITF,ITF2,14,Molise
 2021-01-22,Pfizer/BioNTech,MOL,90+,5,14,19,0,0,0,0,ITF,ITF2,14,Molise
-2021-01-22,Pfizer/BioNTech,PAB,12-19,3,1,3,1,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAB,20-29,21,17,15,23,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAB,30-39,25,25,30,20,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAB,40-49,27,28,27,28,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAB,50-59,49,25,35,39,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAB,60-69,18,6,10,13,1,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAB,80-89,0,3,3,0,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-22,Pfizer/BioNTech,PAT,20-29,30,102,54,78,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,30-39,55,129,65,119,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,40-49,46,218,70,193,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,50-59,87,304,101,288,2,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,60-69,84,115,43,156,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,70-79,67,63,7,123,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,80-89,60,184,6,238,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Pfizer/BioNTech,PAT,90+,32,200,5,227,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-22,Pfizer/BioNTech,PAB,12-19,3,1,3,1,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAB,20-29,21,17,15,23,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAB,30-39,25,25,30,20,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAB,40-49,27,28,27,28,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAB,50-59,49,25,35,39,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAB,60-69,18,6,10,13,1,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAB,80-89,0,3,3,0,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-22,Pfizer/BioNTech,PAT,20-29,30,102,54,78,0,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,30-39,55,129,65,119,0,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,40-49,46,218,70,193,1,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,50-59,87,304,101,288,2,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,60-69,84,115,43,156,0,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,70-79,67,63,7,123,0,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,80-89,60,184,6,238,0,0,0,ITH,ITH2,4,Trento
+2021-01-22,Pfizer/BioNTech,PAT,90+,32,200,5,227,0,0,0,ITH,ITH2,4,Trento
 2021-01-22,Pfizer/BioNTech,PIE,12-19,4,4,8,0,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-22,Pfizer/BioNTech,PIE,20-29,106,236,228,114,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-22,Pfizer/BioNTech,PIE,30-39,199,340,310,227,2,0,0,ITC,ITC1,1,Piemonte
@@ -4644,10 +4644,10 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-22,Pfizer/BioNTech,UMB,40-49,30,60,0,90,0,0,0,ITI,ITI2,10,Umbria
 2021-01-22,Pfizer/BioNTech,UMB,50-59,23,50,0,73,0,0,0,ITI,ITI2,10,Umbria
 2021-01-22,Pfizer/BioNTech,UMB,60-69,17,14,0,31,0,0,0,ITI,ITI2,10,Umbria
-2021-01-22,Pfizer/BioNTech,VDA,30-39,1,4,0,5,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-22,Pfizer/BioNTech,VDA,40-49,2,4,0,6,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-22,Pfizer/BioNTech,VDA,50-59,6,11,0,17,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
-2021-01-22,Pfizer/BioNTech,VDA,60-69,3,5,0,8,0,0,0,ITC,ITC2,2,Valle d'Aosta / Vallée d'Aoste
+2021-01-22,Pfizer/BioNTech,VDA,30-39,1,4,0,5,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-22,Pfizer/BioNTech,VDA,40-49,2,4,0,6,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-22,Pfizer/BioNTech,VDA,50-59,6,11,0,17,0,0,0,ITC,ITC2,2,Valle dAosta
+2021-01-22,Pfizer/BioNTech,VDA,60-69,3,5,0,8,0,0,0,ITC,ITC2,2,Valle dAosta
 2021-01-22,Pfizer/BioNTech,VEN,20-29,21,61,5,77,0,0,0,ITH,ITH3,5,Veneto
 2021-01-22,Pfizer/BioNTech,VEN,30-39,63,114,5,172,0,0,0,ITH,ITH3,5,Veneto
 2021-01-22,Pfizer/BioNTech,VEN,40-49,69,177,5,241,0,0,0,ITH,ITH3,5,Veneto
@@ -4657,8 +4657,8 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-22,Pfizer/BioNTech,VEN,80-89,0,33,2,31,0,0,0,ITH,ITH3,5,Veneto
 2021-01-22,Pfizer/BioNTech,VEN,90+,0,26,0,26,0,0,0,ITH,ITH3,5,Veneto
 2021-01-22,Vaxzevria (AstraZeneca),LIG,80-89,1,0,1,0,0,0,0,ITC,ITC3,7,Liguria
-2021-01-22,Vaxzevria (AstraZeneca),PAT,30-39,1,0,1,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-22,Vaxzevria (AstraZeneca),PAT,50-59,0,2,2,0,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-22,Vaxzevria (AstraZeneca),PAT,30-39,1,0,1,0,0,0,0,ITH,ITH2,4,Trento
+2021-01-22,Vaxzevria (AstraZeneca),PAT,50-59,0,2,2,0,0,0,0,ITH,ITH2,4,Trento
 2021-01-23,Moderna,ABR,40-49,1,2,3,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-23,Moderna,ABR,60-69,2,1,3,0,0,0,0,ITF,ITF1,13,Abruzzo
 2021-01-23,Moderna,ABR,70-79,5,2,7,0,0,0,0,ITF,ITF1,13,Abruzzo
@@ -4785,21 +4785,21 @@ administration_date,supplier,region,age_range,males,females,first_dose,second_do
 2021-01-23,Pfizer/BioNTech,MAR,40-49,32,78,3,107,0,0,0,ITI,ITI3,11,Marche
 2021-01-23,Pfizer/BioNTech,MAR,50-59,39,112,1,150,0,0,0,ITI,ITI3,11,Marche
 2021-01-23,Pfizer/BioNTech,MAR,60-69,36,36,1,71,0,0,0,ITI,ITI3,11,Marche
-2021-01-23,Pfizer/BioNTech,PAB,12-19,2,1,0,3,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAB,20-29,15,12,0,27,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAB,30-39,15,11,0,26,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAB,40-49,31,24,0,55,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAB,50-59,25,19,1,43,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAB,60-69,23,11,0,34,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAB,70-79,6,2,0,8,0,0,0,ITH,ITH1,4,Provincia Autonoma Bolzano / Bozen
-2021-01-23,Pfizer/BioNTech,PAT,20-29,9,10,3,16,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,30-39,17,21,6,32,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,40-49,16,33,19,30,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,50-59,78,60,111,26,1,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,60-69,151,52,193,10,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,70-79,49,20,56,13,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,80-89,14,21,2,33,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
-2021-01-23,Pfizer/BioNTech,PAT,90+,5,32,2,35,0,0,0,ITH,ITH2,4,Provincia Autonoma Trento
+2021-01-23,Pfizer/BioNTech,PAB,12-19,2,1,0,3,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAB,20-29,15,12,0,27,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAB,30-39,15,11,0,26,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAB,40-49,31,24,0,55,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAB,50-59,25,19,1,43,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAB,60-69,23,11,0,34,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAB,70-79,6,2,0,8,0,0,0,ITH,ITH1,4,Bolzano
+2021-01-23,Pfizer/BioNTech,PAT,20-29,9,10,3,16,0,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,30-39,17,21,6,32,0,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,40-49,16,33,19,30,0,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,50-59,78,60,111,26,1,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,60-69,151,52,193,10,0,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,70-79,49,20,56,13,0,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,80-89,14,21,2,33,0,0,0,ITH,ITH2,4,Trento
+2021-01-23,Pfizer/BioNTech,PAT,90+,5,32,2,35,0,0,0,ITH,ITH2,4,Trento
 2021-01-23,Pfizer/BioNTech,PIE,12-19,0,2,1,1,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-23,Pfizer/BioNTech,PIE,20-29,122,311,49,384,0,0,0,ITC,ITC1,1,Piemonte
 2021-01-23,Pfizer/BioNTech,PIE,30-39,248,420,70,598,0,0,0,ITC,ITC1,1,Piemonte
